@@ -1,4 +1,4 @@
-[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-yellow.svg)](https://opensource.org/licenses/BSD-3-Clause)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 
@@ -101,4 +101,4 @@ Have ideas? PRs and issues welcome 🚀
 
 ## 📄 License
 
-This project is licensed under the [BSD 3-Clause License](./LICENSE).
+This project is open source and available under the [MIT License](LICENSE).
