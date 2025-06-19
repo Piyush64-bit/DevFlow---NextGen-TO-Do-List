@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { motion } from "framer-motion";
 import { Plus, Target, Zap, Github, ExternalLink } from "lucide-react";
 import { useTasks } from "./hooks/useTasks";
@@ -8,7 +8,6 @@ import { TaskModal } from "./components/TaskModal";
 import { ProgressChart } from "./components/ProgressChart";
 import { PomodoroTimer } from "./components/PomodoroTimer";
 import { FilterBar } from "./components/FilterBar";
-import Splash from "./components/Splash";
 
 function App() {
   const {
@@ -275,7 +274,7 @@ function App() {
               }}
               transition={{ duration: 0.3 }}
             >
-              Made with 💻 + ☕ by Piyush |
+              © 2025 Designed & Developed by P I Y U $ H |
               <a
                 href="https://github.com/Piyush64-bit"
                 target="_blank"
