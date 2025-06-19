@@ -1,7 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-<img src="/Logo.png" width="120" alt="DevFlow Logo" />
-# DevFlow – The Smart Dev-To-Do Dashboard for Developers
+## ✨ DevFlow – The Smart Dev-To-Do Dashboard for Developers
 
 Welcome to **DevFlow**, your new favorite productivity sidekick 🧠💻  
 A sleek, animated, and fully-functional dashboard built *by devs, for devs* — to help you conquer code chaos and *ship like a pro.*
