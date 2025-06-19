@@ -1,7 +1,20 @@
 [![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-yellow.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
-## ✨ DevFlow – The Smart Dev-To-Do Dashboard for Developers
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/Piyush64-bit/DevFlow---NextGen-TO-Do-List/main/public/Logo.png" alt="DevFlow Logo" width="100" />
+        <h2 style="color: #facc15; margin-top: 10px;">DevFlow –<br/>The Smart Dev-To-Do Dashboard<br/>for Developers</h2>
+      </td>
+      <td align="right">
+        <img src="https://raw.githubusercontent.com/Piyush64-bit/DevFlow---NextGen-TO-Do-List/main/public/chrome_Mx4ovyoP9k.gif" alt="DevFlow Demo" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 Welcome to **DevFlow**, your new favorite productivity sidekick 🧠💻  
 A sleek, animated, and fully-functional dashboard built *by devs, for devs* — to help you conquer code chaos and *ship like a pro.*
