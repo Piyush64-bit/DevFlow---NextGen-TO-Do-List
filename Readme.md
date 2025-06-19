@@ -64,8 +64,7 @@ This ain’t your average to-do app. Under the hood, DevFlow’s built like a pe
 
 ## 🌐 Live Demo
 
-**Coming Soon on Netlify 🚧**  
-But you don’t have to wait. Get it up locally and dive in:
+🚀 **[Check out the live site here!](https://devflow-dashboard.netlify.app/)**
 
 ```bash
 # Clone the repo
